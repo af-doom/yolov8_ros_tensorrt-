@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/wyw/yolov8_ros_tensorrt/devel -DCMAKE_INSTALL_PREFIX=/home/wyw/yolov8_ros_tensorrt/install -G Unix Makefiles

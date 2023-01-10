@@ -1,0 +1,8 @@
+prefix=/home/wyw/yolov8_ros_tensorrt/install
+
+Name: yolov8_rrt
+Description: Description of yolov8_rrt
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

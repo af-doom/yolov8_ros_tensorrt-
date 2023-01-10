@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wyw/yolov8_ros_tensorrt/devel/setup.sh
