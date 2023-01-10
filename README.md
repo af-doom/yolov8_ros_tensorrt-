@@ -4,6 +4,10 @@ This is a YOLOv8 project based on ROS implementation, where YOLOv8 uses Tensorrt
 [YOLOv8](https://v8docs.ultralytics.com/)
 
 ```python
+ yolov8n.trt download 
+     https://mailnankaieducn-my.sharepoint.com/:u:/g/personal/2120220505_mail_nankai_edu_cn/Ef9PE1Rcpp9Ls_wIDlj07wsB5dj_mdgHJuF1jHXtyVYbYg?e=dUBC9A
+ yolov8l.trt download    
+     https://mailnankaieducn-my.sharepoint.com/:u:/g/personal/2120220505_mail_nankai_edu_cn/EVgQCu4mDC9NktYibFJ6nqcBsy5PndLeNubGcWGEPQ3EVw?e=oswuQe
  rosrun yolov8_rrt trt.py
 
 ```
